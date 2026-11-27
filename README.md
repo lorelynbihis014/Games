@@ -21,3 +21,6 @@ Use first names or nicknames only. To send scores from your own games, open **Da
 On your live site open **Dashboard**, find **Who played (private)**, type your teacher key and press **Unlock**. It is saved on your device only. You see each game with its plays and student names, the latest plays with times, and class scores. Your Google Sheet has the same data in its **Plays** and **Scores** tabs, and only you can open it.
 
 If you change the script later, choose **Deploy, then Manage deployments**, click the pencil, set **Version** to New version and **Deploy**. The link stays the same.
+
+## Teacher-only Dashboard
+Students who open **Dashboard** only see a short message. To open the real Dashboard, expand **Teacher sign-in**, paste your GitHub access token and press **Sign in**. You then see the upload form, folders, **Who played (private)** and the score sheet settings. Press **Sign out** on any shared device.
